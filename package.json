@@ -1,0 +1,24 @@
+{
+  "name": "toppr-backend-challenge",
+  "version": "1.0.0",
+  "description": "Toppr Backend Challenge",
+  "main": "index.html",
+  "dependencies": {
+    "express": "^4.13.4",
+    "lodash": "^4.6.1",
+    "mysql": "^2.10.2",
+    "redis": "^2.5.1"
+  },
+  "scripts": {
+    "start": "node api-server.js"
+  },
+  "engines": {
+    "node": "4.2.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raghav196/toppr-challenge"
+  },
+  "author": "raghav",
+  "license": "MIT"
+}
